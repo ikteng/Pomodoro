@@ -1,5 +1,7 @@
 # Pomodoro
-This code uses Tkinter, pygame, sqlite3, time and PIL.
+Pomodoro 1 uses Tkinter, pygame, sqlite3, time and PIL
+Pomodoro 2 uses sys, PyQt5, sqlite3
+
 ## Pomodoro Technique
 The Pomodoro technique is a time management method that uses a timer to break down work into intervals of 25 minutes, separated by short breaks of 5 minutes.
 
